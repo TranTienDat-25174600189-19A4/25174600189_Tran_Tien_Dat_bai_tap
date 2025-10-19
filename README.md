@@ -9,8 +9,6 @@ porta nulla sed gravida. Aliquam ultricies dapibus ante eget molestie. In hac ha
 platea dictumst. Aliquam aliquam enim at massa pharetra, et vestibulum sapien
 consequat. Donec accumsan quis metus at pellentesque. Morbi quis felis placerat,
 interdum justo a, aliquam risus.
-ADMIN@LAPTOP-D5IKGNEJ MINGW64 ~
-
 $ git clone https://github.com/TranTienDat-25174600189-19A4/25174600189\_Tran\_Tien\_Dat\_bai\_tap.git
 
 fatal: destination path '25174600189\_Tran\_Tien\_Dat\_bai\_tap' already exists and is not an empty directory.
